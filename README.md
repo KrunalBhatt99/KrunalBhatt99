@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning perception for ground and aerial bots, motion planning, and deep learning.
 - 💞️ I’m looking to collaborate on some good computer vision, control, and/or manipulator projects. Connect if possible!!
 - 📫 How to reach me:<br>
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kmbhatt999@gmail.com) [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krunalbhatt9/) You can find my [![website](https://sites.google.com/nirmauni.ac.in/krunalbhatt/home)] Here!
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kmbhatt999@gmail.com) [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krunalbhatt9/) Visit my [website](https://sites.google.com/nirmauni.ac.in/krunalbhatt/home)
 
 [![Krunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krunalmbhatt&hide=contribs,prs)](https://github.com/krunalmbhatt/readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunalmbhatt&layout=compact)](https://github.com/krunalmbhatt) <br>
