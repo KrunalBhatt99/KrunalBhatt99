@@ -9,6 +9,6 @@
 - 📫 How to reach me:<br>
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kmbhatt999@gmail.com) [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krunalbhatt9/)
 
-[![Krunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrunalBhatt99&hide=contribs,prs)](https://github.com/KrunalBhatt99/readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrunalBhatt99&layout=compact)](https://github.com/KrunalBhatt99) <br>
+[![Krunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krunalmbhatt&hide=contribs,prs)](https://github.com/krunalmbhatt/readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunalmbhatt&layout=compact)](https://github.com/krunalmbhatt) <br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic&label=Visitors)
