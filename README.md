@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on some good computer vision, control, and/or manipulator projects. Connect if possible!!
 - Visit my [website](https://sites.google.com/nirmauni.ac.in/krunalbhatt/home)
 - 📫 How to reach me:<br>
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](href="mailto:kmbhatt999@gmail.com") [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krunalbhatt9/)<br>
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a target="_blank" href="mailto:kmbhatt@wpi.edu"></a>) [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krunalbhatt9/)<br>
 
 
 [![Krunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krunalmbhatt&hide=contribs,prs)](https://github.com/krunalmbhatt/readme-stats) <br>
